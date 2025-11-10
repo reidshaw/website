@@ -1,0 +1,18 @@
+---
+title: "Welcome!"
+---
+
+
+## 
+My name is Reid Shaw and I grew up in Seattle, WA. I am the younger brother of Hale and favorite son of Bill and Laura. For college, I attended Whitman College in Walla Walla, WA, where I studied Biophysics, Biochemistry, and Molecular Biology and played soccer with my friends (Junpei and Jesse). After graduating in 2014, I worked as a Research Assistant at the Fred Hutchinson Cancer Research Center in Seattle, focusing on functional genomics. I then followed my PI, Dr. Carla Grandori, to her start-up company, SEngine Precision Medicine, where we (including my other friends Hallie and Rob) built a CLIA-certified platform to test cancer drugs on patient-derived organoids. I then pursued my MD at the University of Rochester School of Medicine, graduating in 2017. Following medical school, I completed my residency in Internal Medicine at Loyola University Medical Center. I am currently a Hematology and Oncology Fellow at the University of Chicago.
+
+In my free time, I enjoy eating pizza, and playing basketball and soccer. I am engaged to Miriam Haxton who is the most amazing Psychiatrist. I met her in medical school and we moved to Chicago together for residency where we currently live. 
+
+##
+![Mom's 70th Birthday in Mexico City!](images/profile.jpeg){width=800px fig-align="center"}
+
+
+#### Connect with Me {style="text-align: center;"}
+[![](images/gmail.png){width=40px}](mailto:reid.shaw@uchicagomedicine.edu){style="margin: 0 20px;"}
+[![](images/linkedin.png){width=40px}](https://www.linkedin.com/in/reid-shaw-a6081367/){style="margin: 0 20px;"}
+[![](images/google_scholar.png){width=40px}](https://scholar.google.com/citations?user=FXLhiLIAAAAJ&hl=en&oi=ao){style="margin: 0 20px;"}

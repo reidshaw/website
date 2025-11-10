@@ -1,0 +1,40 @@
+---
+title: "Curriculum Vitae"
+---
+#
+## Education
+
+**Whitman College** | Walla Walla, WA  
+Biophysics, Biochemistry, and Molecular Biology | 2014
+
+**University of Rochester School of Medicine** | Rochester, NY  
+Doctor of Medicine | 2017
+
+
+## Professional Experience
+
+**Hematology and Oncology Fellow** | University of Chicago | 2024-Present
+
+**Internal Medicine Resident** | Loyola University Medical Center | 2021-2024
+
+**Bioinformatician** | SEngine Precision Medicine | 2015-2017
+
+**Research Assistant** | Fred Hutchinson Cancer Research Center | 2014-2015
+
+#
+
+## Selected Peer-Reviewed Publications
+
+**Shaw R**, et al. "Assessing AML-based risk criteria in patients with accelerated/blast-phase MPN treated with less-intensive therapy." *Blood Advances*. 2025. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/39969200/)] 
+
+**Shaw R**, et al. "Assessing the Predictive Value of Methicillin-Resistant Staphylococcus aureus Nares Colonization Among Transplant Recipients and Patients With Neutropenia." *Open Forum Infectious Disease*. 2024. [[Pubmed](https://pubmed.ncbi.nlm.nih.gov/39050229/)] 
+
+**Shaw R**, et al. "Multicenter analysis of immunosuppressive medications on the risk of malignancy following adult solid organ transplantation." *Frontiers in Oncology*. 2023. [[Pubmed](https://pmc.ncbi.nlm.nih.gov/articles/PMC10313202/)] 
+
+**Shaw R**, et al. "Stacking Machine Learning Algorithms for Biomarker-Based Preoperative Diagnosis of a Pelvic Mass." *Cancers (Basel)*. 2022. [[Pubmed](https://pubmed.ncbi.nlm.nih.gov/35267599/)] 
+
+#
+##
+
+[Download Full CV (PDF)](files/reid_shaw_cv.pdf){.btn .btn-primary}
+

@@ -1,0 +1,19 @@
+---
+title: "Current Research"
+---
+
+
+### Adoptive Cell Therapy and the Microbiome
+I am currently working in the lab of Tom Gajewski, MD, PhD, at the University of Chicago, studying the role of the gut microbiome in modulating response to adoptive T cell therapy. I am using a couple of different models, including a transgenic mouse models with live biotherapeutic prodcuts. Our goal is to identify specific microbial taxa and metabolites that can enhance anti-tumor immunity and improve treatment outcomes.
+
+![Differential stool species among CAR-T recipients](images/volcano_plot_timepoints_tidyplots_pathways_picrust2.png){width=100% fig-align="center"}
+
+### Machine Learning for CAR-T Outcomes
+I currently lead an ongoing CIBMTR study, prediciting response and toxicity for patients with relapsed/refractory large B-cell lymphoma treated with CD19 CAR-T therapy. This study is aimed at identifying clinical and molecular biomarkers that can help guide treatment decisions and improve patient outcomes. It leverages a large multi-national database to ensure robust and generalizable findings.
+
+![Machine learning ensemble stack](images/ml_stack.png){width=100% fig-align="center"}
+
+### Clinical Trial: Lactulose and Immune Checkpoint Inhibitors
+I recently wrote a Phase I/II clinical trial that investigates the addition of lactulose to immune checkpoint inhibitors. Phase I is tumor agnostic, focusing on the stool microbial and metabolomic changes while Phase II is focused on ICI-refractory melanoma and objective response rate. The trial aims to evaluate whether modulating the gut microbiome with lactulose can enhance the efficacy of immunotherapy and improve patient outcomes.
+
+![Clinical trial schema](images/lactulose.png){width=100% fig-align="center"}
