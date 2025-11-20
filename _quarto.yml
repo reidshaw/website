@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Reid Shaw"
+  site-url: "https://reidshaw.com"
+  description: "Hematology and Oncology Fellow at University of Chicago"
   navbar:
     left:
       - href: index.qmd

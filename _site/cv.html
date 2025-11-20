@@ -330,7 +330,7 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Whitman College</strong> | Walla Walla, WA<br>
 Biophysics, Biochemistry, and Molecular Biology | 2014</p>
 <p><strong>University of Rochester School of Medicine</strong> | Rochester, NY<br>
-Doctor of Medicine | 2017</p>
+Doctor of Medicine | 2021</p>
 </section>
 <section id="professional-experience" class="level2">
 <h2 class="anchored" data-anchor-id="professional-experience">Professional Experience</h2>
@@ -446,7 +446,7 @@ Doctor of Medicine | 2017</p>
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/reidshaw\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
